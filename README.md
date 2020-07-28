@@ -7,7 +7,7 @@ Find me around the web:
 - rambling [on twitter](https://twitter.com/sebasr_p)
 - sharing updates on [LinkedIn](www.linkedin.com/in/sebasr) :briefcase:
 
-(Gif credit to [Akito_One](https://steamcommunity.com/sharedfiles/filedetails/?id=1366661990)
+(Gif credit to [Akito_One](https://steamcommunity.com/sharedfiles/filedetails/?id=1366661990))
 <!--
 **sebasrp/sebasrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
