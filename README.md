@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, I'm Sebastian 👋
+I'm a engineering leader who is passionate about solving technical challenges!
+
+Find me around the web:
+- writting about tech and mechanical keyboards [on my personal blog](http://sebasr.com)
+- rambling [on twitter](https://twitter.com/sebasr_p)
+- sharing updates on [LinkedIn](www.linkedin.com/in/sebasr) :briefcase:
+
 
 <!--
 **sebasrp/sebasrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
