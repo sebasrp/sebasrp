@@ -4,7 +4,7 @@ I'm a engineering leader who is passionate about solving technical challenges!
 
 Find me around the web:
 - writting about tech and mechanical keyboards [on my personal blog](http://sebasr.com)
-- sharing updates on [LinkedIn](www.linkedin.com/in/sebasr) :briefcase:
+- sharing updates on [LinkedIn](http://www.linkedin.com/in/sebasr) :briefcase:
 
 (Gif credit to [Akito_One](https://steamcommunity.com/sharedfiles/filedetails/?id=1366661990))
 <!--
